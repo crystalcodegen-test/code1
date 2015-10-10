@@ -1,6 +1,8 @@
-name: crystalcodegen-test/code1
+name: Code it
 author:
   name: Chris Tate
   email: test@crystal.sh
   url: 'http://crystalcodegen.com'
 copyright: 2015 Chris Tate
+description: test description
+url: 'https://google.com'
